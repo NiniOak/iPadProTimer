@@ -15,6 +15,7 @@
 		08D447591E4CAC5D00535DFC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08D447571E4CAC5D00535DFC /* LaunchScreen.storyboard */; };
 		08D447641E4CAC5D00535DFC /* secondlabTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 08D447631E4CAC5D00535DFC /* secondlabTests.m */; };
 		08D4476F1E4CAC5D00535DFC /* secondlabUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 08D4476E1E4CAC5D00535DFC /* secondlabUITests.m */; };
+		08D4477D1E4CBC2200535DFC /* iPadStoryBoard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08D4477C1E4CBC2200535DFC /* iPadStoryBoard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		08D4476A1E4CAC5D00535DFC /* secondlabUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = secondlabUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		08D4476E1E4CAC5D00535DFC /* secondlabUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = secondlabUITests.m; sourceTree = "<group>"; };
 		08D447701E4CAC5D00535DFC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		08D4477C1E4CBC2200535DFC /* iPadStoryBoard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = iPadStoryBoard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				08D4474F1E4CAC5C00535DFC /* ViewController.h */,
 				08D447501E4CAC5C00535DFC /* ViewController.m */,
 				08D447521E4CAC5D00535DFC /* Main.storyboard */,
+				08D4477C1E4CBC2200535DFC /* iPadStoryBoard.storyboard */,
 				08D447551E4CAC5D00535DFC /* Assets.xcassets */,
 				08D447571E4CAC5D00535DFC /* LaunchScreen.storyboard */,
 				08D4475A1E4CAC5D00535DFC /* Info.plist */,
@@ -249,6 +252,7 @@
 				08D447591E4CAC5D00535DFC /* LaunchScreen.storyboard in Resources */,
 				08D447561E4CAC5D00535DFC /* Assets.xcassets in Resources */,
 				08D447541E4CAC5D00535DFC /* Main.storyboard in Resources */,
+				08D4477D1E4CBC2200535DFC /* iPadStoryBoard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
